@@ -7107,11 +7107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\HCA\\API\\API.csproj",
+      "projectUniqueName": "D:\\New folder\\HCA\\HCA-Demo\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\New folder\\HCA\\API\\API.csproj",
+      "projectPath": "D:\\New folder\\HCA\\HCA-Demo\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Anoob Divakaran\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\HCA\\API\\obj\\",
+      "outputPath": "D:\\New folder\\HCA\\HCA-Demo\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anoob Divakaran\\AppData\\Roaming\\NuGet\\NuGet.Config",

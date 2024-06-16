@@ -18,9 +18,5 @@ namespace HCA.Models
         [DisplayFormat(DataFormatString = "{0:c}")]
         public decimal Price {  get; set; }
     }
-    public class ApiSettings
-    {
-        public string BaseUrl { get; set; }
-    }
 
 }

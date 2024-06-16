@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\HCA\\HCA\\HCA.csproj": {}
+    "D:\\New folder\\HCA\\HCA-Demo\\HCA\\HCA.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\HCA\\HCA\\HCA.csproj": {
+    "D:\\New folder\\HCA\\HCA-Demo\\HCA\\HCA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\HCA\\HCA\\HCA.csproj",
+        "projectUniqueName": "D:\\New folder\\HCA\\HCA-Demo\\HCA\\HCA.csproj",
         "projectName": "HCA",
-        "projectPath": "D:\\New folder\\HCA\\HCA\\HCA.csproj",
+        "projectPath": "D:\\New folder\\HCA\\HCA-Demo\\HCA\\HCA.csproj",
         "packagesPath": "C:\\Users\\Anoob Divakaran\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\HCA\\HCA\\obj\\",
+        "outputPath": "D:\\New folder\\HCA\\HCA-Demo\\HCA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anoob Divakaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,14 +45,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[3.1.21, )"
-            },
-            "Microsoft.IdentityModel.Tokens": {
-              "target": "Package",
-              "version": "[7.6.0, )"
-            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
